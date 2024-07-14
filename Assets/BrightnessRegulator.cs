@@ -65,7 +65,7 @@ public class BrightnessRegulator : MonoBehaviour
 
     }
 
-    //Õ“Ë‚ÉŒÄ‚Î‚ê“¾‚éŠÖ”
+    //Õ“Ë‚ÉŒÄ‚Î‚ê‚éŠÖ”
     void OnCollisionEnter(Collision other)
     {
         //Šp“x‚ğ180‚Éİ’è

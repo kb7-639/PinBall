@@ -39,7 +39,7 @@ public class BallController : MonoBehaviour
         
     }
 
-    //Õ“Ë‚ÉŒÄ‚Î‚ê“¾‚éŠÖ”
+    //Õ“Ë‚ÉŒÄ‚Î‚ê‚éŠÖ”
     void OnCollisionEnter(Collision other)
     {
 
